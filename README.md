@@ -1,14 +1,14 @@
 # North East Scotland College Graded Unit Project
 
 The Graded Unit Project is a Tailoring and Alterations tracker written in Python. 
-It supports Microsoft Access SQL, SQLite, MySQL and PostgreSQL.
+It supports Databases such as Microsoft Access SQL, SQLite, MySQL and PostgreSQL.
 
 ## Graded Unit Project Compile-time Dependencies
 
 * [Python](http://www.python.org) (2.7 required;)
 * [WxPython](http://www./wxpython.org) (4.0.7+ required)
 * [matplotlib](https://www.matplotlib.org/) (required)
-* [PyODBC](https://www.mkleehammer.github.io/pyodbc) (4.0.28 required)
+* [PyODBC](https://www.github.com/mkleehammer/pyodbc) (4.0.28 required)
 * [CX_Freeze](https://cx-freeze.readthedocs.io/en/stable) (optional)
 
 ## Installation

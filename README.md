@@ -28,4 +28,4 @@ The [Graded Unit installation guides] includes instructions for installing the p
 
 ### Run-time options:
 
-* `start <path/to/main.py>` - Path to entry point file. If unspecified, the current working directory is used.
+* `python <path/to/main.py>` - Path to entry point file. If unspecified, the current working directory is used.

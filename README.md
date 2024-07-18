@@ -6,7 +6,7 @@ It supports Databases such as Microsoft Access SQL, SQLite, MySQL and PostgreSQL
 ## Graded Unit Project Compile-time Dependencies
 
 * [Python](http://www.python.org) (2.7 required;)
-* [WxPython](http://www./wxpython.org) (4.0.7+ required)
+* [WxPython](http://www.wxpython.org) (4.0.7+ required)
 * [matplotlib](https://www.matplotlib.org/) (required)
 * [PyODBC](https://www.github.com/mkleehammer/pyodbc) (4.0.28 required)
 * [CX_Freeze](https://cx-freeze.readthedocs.io/en/stable) (optional)

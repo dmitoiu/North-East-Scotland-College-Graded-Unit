@@ -1,5 +1,7 @@
 # North East Scotland College Graded Unit Project
 
+![](docs/7d9b3097f11ba3cf80c43f7bce34051d.png)
+
 The Graded Unit Project is a Tailoring and Alterations tracker written in Python. 
 It supports Databases such as Microsoft Access SQL, SQLite, MySQL and PostgreSQL.
 
